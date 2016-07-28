@@ -1,0 +1,483 @@
+[{
+"name": "Pack1",
+"numberCard": 5,
+"numberOfMasterCard": 0,
+"numberOfReviewCard": 0,
+"numberOfLearningCard": 0,
+"card": [{
+"word": "Qualify",
+"type": "Verb : yomake less severe; to limit(a statement)",
+"script": "Chris qualified his love for San Francisco, adding he didn't like the weather there as much as he liked the weather in Log Angeles",
+"tag": "new word"
+}, {
+"word": "ingenuous",
+"type": "adjective : to be native and innocent",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}, {
+"word": "auspicious",
+"type": "adjective : favorable, the oppiosite if sinister",
+"script": "Despite an auspicious beginning, Mike's road trip bcane as series of mishapsm and he was soon stranded and pennikess, learning against his wrecked automobile",
+"tag": "new word"
+}, {
+"word": "parochial",
+"type": "adjective :narrowly restructed in scope or outlook",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}, {
+"word": "artful",
+"type": "adjective : to be native and innocent",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}, {
+"word": "xxxxxx",
+"type": "adjective : to be native and innocent",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}
+
+]
+}
+,
+{
+"name": "Pack2",
+"numberCard": 5,
+"numberOfMasterCard": 0,
+"numberOfReviewCard": 0,
+"numberOfLearningCard": 0,
+"card": [{
+"word": "Qualify",
+"type": "Verb : yomake less severe; to limit(a statement)",
+"script": "Chris qualified his love for San Francisco, adding he didn't like the weather there as much as he liked the weather in Log Angeles",
+"tag": "new word"
+}, {
+"word": "ingenuous",
+"type": "adjective : to be native and innocent",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}, {
+"word": "auspicious",
+"type": "adjective : favorable, the oppiosite if sinister",
+"script": "Despite an auspicious beginning, Mike's road trip bcane as series of mishapsm and he was soon stranded and pennikess, learning against his wrecked automobile",
+"tag": "new word"
+}, {
+"word": "parochial",
+"type": "adjective :narrowly restructed in scope or outlook",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}, {
+"word": "artful",
+"type": "adjective : to be native and innocent",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}, {
+"word": "xxxxxx",
+"type": "adjective : to be native and innocent",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}
+
+]
+},
+{
+"name": "Pack3",
+"numberCard": 5,
+"numberOfMasterCard": 0,
+"numberOfReviewCard": 0,
+"numberOfLearningCard": 0,
+"card": [{
+"word": "Qualify",
+"type": "Verb : yomake less severe; to limit(a statement)",
+"script": "Chris qualified his love for San Francisco, adding he didn't like the weather there as much as he liked the weather in Log Angeles",
+"tag": "new word"
+}, {
+"word": "ingenuous",
+"type": "adjective : to be native and innocent",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}, {
+"word": "auspicious",
+"type": "adjective : favorable, the oppiosite if sinister",
+"script": "Despite an auspicious beginning, Mike's road trip bcane as series of mishapsm and he was soon stranded and pennikess, learning against his wrecked automobile",
+"tag": "new word"
+}, {
+"word": "parochial",
+"type": "adjective :narrowly restructed in scope or outlook",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}, {
+"word": "artful",
+"type": "adjective : to be native and innocent",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}, {
+"word": "xxxxxx",
+"type": "adjective : to be native and innocent",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}
+
+]
+},
+{
+"name": "Pack4",
+"numberCard": 5,
+"numberOfMasterCard": 0,
+"numberOfReviewCard": 0,
+"numberOfLearningCard": 0,
+"card": [{
+"word": "Qualify",
+"type": "Verb : yomake less severe; to limit(a statement)",
+"script": "Chris qualified his love for San Francisco, adding he didn't like the weather there as much as he liked the weather in Log Angeles",
+"tag": "new word"
+}, {
+"word": "ingenuous",
+"type": "adjective : to be native and innocent",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}, {
+"word": "auspicious",
+"type": "adjective : favorable, the oppiosite if sinister",
+"script": "Despite an auspicious beginning, Mike's road trip bcane as series of mishapsm and he was soon stranded and pennikess, learning against his wrecked automobile",
+"tag": "new word"
+}, {
+"word": "parochial",
+"type": "adjective :narrowly restructed in scope or outlook",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}, {
+"word": "artful",
+"type": "adjective : to be native and innocent",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}, {
+"word": "xxxxxx",
+"type": "adjective : to be native and innocent",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}
+
+]
+}
+,{
+"name": "Pack5",
+"numberCard": 5,
+"numberOfMasterCard": 0,
+"numberOfReviewCard": 0,
+"numberOfLearningCard": 0,
+"card": [{
+"word": "Qualify",
+"type": "Verb : yomake less severe; to limit(a statement)",
+"script": "Chris qualified his love for San Francisco, adding he didn't like the weather there as much as he liked the weather in Log Angeles",
+"tag": "new word"
+}, {
+"word": "ingenuous",
+"type": "adjective : to be native and innocent",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}, {
+"word": "auspicious",
+"type": "adjective : favorable, the oppiosite if sinister",
+"script": "Despite an auspicious beginning, Mike's road trip bcane as series of mishapsm and he was soon stranded and pennikess, learning against his wrecked automobile",
+"tag": "new word"
+}, {
+"word": "parochial",
+"type": "adjective :narrowly restructed in scope or outlook",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}, {
+"word": "artful",
+"type": "adjective : to be native and innocent",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}, {
+"word": "xxxxxx",
+"type": "adjective : to be native and innocent",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}
+
+]
+}
+,{
+"name": "Pack6",
+"numberCard": 5,
+"numberOfMasterCard": 0,
+"numberOfReviewCard": 0,
+"numberOfLearningCard": 0,
+"card": [{
+"word": "Qualify",
+"type": "Verb : yomake less severe; to limit(a statement)",
+"script": "Chris qualified his love for San Francisco, adding he didn't like the weather there as much as he liked the weather in Log Angeles",
+"tag": "new word"
+}, {
+"word": "ingenuous",
+"type": "adjective : to be native and innocent",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}, {
+"word": "auspicious",
+"type": "adjective : favorable, the oppiosite if sinister",
+"script": "Despite an auspicious beginning, Mike's road trip bcane as series of mishapsm and he was soon stranded and pennikess, learning against his wrecked automobile",
+"tag": "new word"
+}, {
+"word": "parochial",
+"type": "adjective :narrowly restructed in scope or outlook",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}, {
+"word": "artful",
+"type": "adjective : to be native and innocent",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}, {
+"word": "xxxxxx",
+"type": "adjective : to be native and innocent",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}
+
+]
+}
+,{
+"name": "Pack7",
+"numberCard": 5,
+"numberOfMasterCard": 0,
+"numberOfReviewCard": 0,
+"numberOfLearningCard": 0,
+"card": [{
+"word": "Qualify",
+"type": "Verb : yomake less severe; to limit(a statement)",
+"script": "Chris qualified his love for San Francisco, adding he didn't like the weather there as much as he liked the weather in Log Angeles",
+"tag": "new word"
+}, {
+"word": "ingenuous",
+"type": "adjective : to be native and innocent",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}, {
+"word": "auspicious",
+"type": "adjective : favorable, the oppiosite if sinister",
+"script": "Despite an auspicious beginning, Mike's road trip bcane as series of mishapsm and he was soon stranded and pennikess, learning against his wrecked automobile",
+"tag": "new word"
+}, {
+"word": "parochial",
+"type": "adjective :narrowly restructed in scope or outlook",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}, {
+"word": "artful",
+"type": "adjective : to be native and innocent",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}, {
+"word": "xxxxxx",
+"type": "adjective : to be native and innocent",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}
+
+]
+}
+,{
+"name": "Pack8",
+"numberCard": 5,
+"numberOfMasterCard": 0,
+"numberOfReviewCard": 0,
+"numberOfLearningCard": 0,
+"card": [{
+"word": "Qualify",
+"type": "Verb : yomake less severe; to limit(a statement)",
+"script": "Chris qualified his love for San Francisco, adding he didn't like the weather there as much as he liked the weather in Log Angeles",
+"tag": "new word"
+}, {
+"word": "ingenuous",
+"type": "adjective : to be native and innocent",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}, {
+"word": "auspicious",
+"type": "adjective : favorable, the oppiosite if sinister",
+"script": "Despite an auspicious beginning, Mike's road trip bcane as series of mishapsm and he was soon stranded and pennikess, learning against his wrecked automobile",
+"tag": "new word"
+}, {
+"word": "parochial",
+"type": "adjective :narrowly restructed in scope or outlook",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}, {
+"word": "artful",
+"type": "adjective : to be native and innocent",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}, {
+"word": "xxxxxx",
+"type": "adjective : to be native and innocent",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}
+
+]
+}
+,{
+"name": "Pack9",
+"numberCard": 5,
+"numberOfMasterCard": 0,
+"numberOfReviewCard": 0,
+"numberOfLearningCard": 0,
+"card": [{
+"word": "Qualify",
+"type": "Verb : yomake less severe; to limit(a statement)",
+"script": "Chris qualified his love for San Francisco, adding he didn't like the weather there as much as he liked the weather in Log Angeles",
+"tag": "new word"
+}, {
+"word": "ingenuous",
+"type": "adjective : to be native and innocent",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}, {
+"word": "auspicious",
+"type": "adjective : favorable, the oppiosite if sinister",
+"script": "Despite an auspicious beginning, Mike's road trip bcane as series of mishapsm and he was soon stranded and pennikess, learning against his wrecked automobile",
+"tag": "new word"
+}, {
+"word": "parochial",
+"type": "adjective :narrowly restructed in scope or outlook",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}, {
+"word": "artful",
+"type": "adjective : to be native and innocent",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}, {
+"word": "xxxxxx",
+"type": "adjective : to be native and innocent",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}
+
+]
+}
+,{
+"name": "Pack10",
+"numberCard": 5,
+"numberOfMasterCard": 0,
+"numberOfReviewCard": 0,
+"numberOfLearningCard": 0,
+"card": [{
+"word": "Qualify",
+"type": "Verb : yomake less severe; to limit(a statement)",
+"script": "Chris qualified his love for San Francisco, adding he didn't like the weather there as much as he liked the weather in Log Angeles",
+"tag": "new word"
+}, {
+"word": "ingenuous",
+"type": "adjective : to be native and innocent",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}, {
+"word": "auspicious",
+"type": "adjective : favorable, the oppiosite if sinister",
+"script": "Despite an auspicious beginning, Mike's road trip bcane as series of mishapsm and he was soon stranded and pennikess, learning against his wrecked automobile",
+"tag": "new word"
+}, {
+"word": "parochial",
+"type": "adjective :narrowly restructed in scope or outlook",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}, {
+"word": "artful",
+"type": "adjective : to be native and innocent",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}, {
+"word": "xxxxxx",
+"type": "adjective : to be native and innocent",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}
+
+]
+}
+,{
+"name": "Pack11",
+"numberCard": 5,
+"numberOfMasterCard": 0,
+"numberOfReviewCard": 0,
+"numberOfLearningCard": 0,
+"card": [{
+"word": "Qualify",
+"type": "Verb : yomake less severe; to limit(a statement)",
+"script": "Chris qualified his love for San Francisco, adding he didn't like the weather there as much as he liked the weather in Log Angeles",
+"tag": "new word"
+}, {
+"word": "ingenuous",
+"type": "adjective : to be native and innocent",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}, {
+"word": "auspicious",
+"type": "adjective : favorable, the oppiosite if sinister",
+"script": "Despite an auspicious beginning, Mike's road trip bcane as series of mishapsm and he was soon stranded and pennikess, learning against his wrecked automobile",
+"tag": "new word"
+}, {
+"word": "parochial",
+"type": "adjective :narrowly restructed in scope or outlook",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}, {
+"word": "artful",
+"type": "adjective : to be native and innocent",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}, {
+"word": "xxxxxx",
+"type": "adjective : to be native and innocent",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}
+
+]
+}
+,{
+"name": "Pack12",
+"numberCard": 5,
+"numberOfMasterCard": 0,
+"numberOfReviewCard": 0,
+"numberOfLearningCard": 0,
+"card": [{
+"word": "Qualify",
+"type": "Verb : yomake less severe; to limit(a statement)",
+"script": "Chris qualified his love for San Francisco, adding he didn't like the weather there as much as he liked the weather in Log Angeles",
+"tag": "new word"
+}, {
+"word": "ingenuous",
+"type": "adjective : to be native and innocent",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}, {
+"word": "auspicious",
+"type": "adjective : favorable, the oppiosite if sinister",
+"script": "Despite an auspicious beginning, Mike's road trip bcane as series of mishapsm and he was soon stranded and pennikess, learning against his wrecked automobile",
+"tag": "new word"
+}, {
+"word": "parochial",
+"type": "adjective :narrowly restructed in scope or outlook",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}, {
+"word": "artful",
+"type": "adjective : to be native and innocent",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}, {
+"word": "xxxxxx",
+"type": "adjective : to be native and innocent",
+"script": "Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate Two-years in Manhattan had changed Jenna from an ingenuous girl from the suburbs to a jaded urbanite, unlikely to fakk for any rusem regardkess of how elaborate",
+"tag": "new word"
+}
+
+]
+}
+
+    ]

@@ -1,0 +1,6 @@
+framework module Pods_PokemonQuizEmAll {
+  umbrella header "Pods-PokemonQuizEmAll-umbrella.h"
+
+  export *
+  module * { export * }
+}

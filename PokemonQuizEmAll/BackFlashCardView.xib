@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10117" systemVersion="15G31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+        <capability name="Constraints with non-1.0 multipliers" minToolsVersion="5.1"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="BackFlashCardViewModel" customModule="PokemonQuizEmAll" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="423" height="267"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="zAL-MU-xrP" userLabel="vContent">
+                    <rect key="frame" x="0.0" y="0.0" width="423" height="267"/>
+                    <subviews>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="FHs-zB-rnm">
+                            <rect key="frame" x="91" y="13" width="241" height="241"/>
+                            <constraints>
+                                <constraint firstAttribute="width" secondItem="FHs-zB-rnm" secondAttribute="height" multiplier="1:1" id="die-nE-oA5"/>
+                            </constraints>
+                        </imageView>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="#025 Pikachu" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Cec-kx-Iwv">
+                            <rect key="frame" x="8" y="8" width="407" height="25"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="25" id="Hw9-Br-cyp"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="17"/>
+                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                    <constraints>
+                        <constraint firstItem="Cec-kx-Iwv" firstAttribute="top" secondItem="zAL-MU-xrP" secondAttribute="top" constant="8" id="3WH-mc-IaJ"/>
+                        <constraint firstItem="FHs-zB-rnm" firstAttribute="centerX" secondItem="zAL-MU-xrP" secondAttribute="centerX" id="PJ9-Ts-AbK"/>
+                        <constraint firstItem="FHs-zB-rnm" firstAttribute="height" secondItem="zAL-MU-xrP" secondAttribute="height" multiplier="0.9" id="YvF-hG-57n"/>
+                        <constraint firstItem="Cec-kx-Iwv" firstAttribute="leading" secondItem="zAL-MU-xrP" secondAttribute="leading" constant="8" id="ktR-qQ-VQF"/>
+                        <constraint firstAttribute="trailing" secondItem="Cec-kx-Iwv" secondAttribute="trailing" constant="8" id="mVE-Ky-z6w"/>
+                        <constraint firstItem="FHs-zB-rnm" firstAttribute="centerY" secondItem="zAL-MU-xrP" secondAttribute="centerY" id="yad-Ed-O3K"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="zAL-MU-xrP" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="WoP-Pq-Ghw"/>
+                <constraint firstAttribute="trailing" secondItem="zAL-MU-xrP" secondAttribute="trailing" id="Zce-TZ-tHB"/>
+                <constraint firstAttribute="bottom" secondItem="zAL-MU-xrP" secondAttribute="bottom" id="u5Q-N1-bMC"/>
+                <constraint firstItem="zAL-MU-xrP" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="vfO-ew-y6m"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="imvPokemon" destination="FHs-zB-rnm" id="863-kC-Ghn"/>
+                <outlet property="lblPoId" destination="Cec-kx-Iwv" id="oIi-nv-yHF"/>
+                <outlet property="vContent" destination="zAL-MU-xrP" id="j2a-hD-Usv"/>
+            </connections>
+            <point key="canvasLocation" x="153.5" y="34.5"/>
+        </view>
+    </objects>
+</document>
